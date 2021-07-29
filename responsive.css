@@ -1,0 +1,21 @@
+
+/* --------- extra small ---------- */
+@media (min-width:320px) and (max-width:575px){
+    h1 {
+        font-size: 45px;
+    }
+    .main .dice .img {
+        height: 100px;
+        width: 100px;
+    }
+    /* --------- extra small ---------- */
+@media (min-width:320px) and (max-width:575px){
+    .main .dice .img {
+        height: 100px;
+        width: 100px;
+    }
+    button {
+        margin: 25px 42%;
+    }
+}
+}
